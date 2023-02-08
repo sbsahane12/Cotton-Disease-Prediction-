@@ -15,7 +15,7 @@
   * [Credits](#credits)
 
 ## Demo
-https://user-images.githubusercontent.com/37875797/Cotton_Disese_Prediction.mp4
+[https://user-images.githubusercontent.com/37875797/Cotton_Disese_Prediction.mp4](https://user-images.githubusercontent.com/106218600/217471586-472efacf-eb0f-4ca4-8f81-944a7cf42b46.mp4)
 
 ## 📌Overview
 
